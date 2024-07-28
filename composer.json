@@ -14,5 +14,8 @@
             "cweagans/composer-patches": true,
             "magento-hackathon/magento-composer-installer": false
         }
+    },
+    "extra": {
+        "enable-patching": true
     }
 }
