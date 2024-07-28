@@ -1,6 +1,11 @@
 {
     "name": "mahocommerce/maho-starter",
     "type": "project",
+    "minimum-stability": "stable",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "require": {
         "mahocommerce/maho": "dev-main"
     },
