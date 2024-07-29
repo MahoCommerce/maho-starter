@@ -7,12 +7,14 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "mahocommerce/maho": "dev-main"
+        "mahocommerce/maho": "dev-main",
+        "mahocommerce/maho-composer-plugin": "*"
     },
     "config": {
         "allow-plugins": {
             "cweagans/composer-patches": true,
-            "magento-hackathon/magento-composer-installer": false
+            "magento-hackathon/magento-composer-installer": false,
+            "mahocommerce/maho-composer-plugin": true
         }
     },
     "extra": {
