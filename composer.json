@@ -7,7 +7,7 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "mahocommerce/maho": "dev-main",
+        "mahocommerce/maho": "*",
         "mahocommerce/maho-composer-plugin": "*"
     },
     "config": {
