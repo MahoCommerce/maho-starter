@@ -7,7 +7,7 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "mahocommerce/maho": "*",
+        "mahocommerce/maho": "*"
     },
     "config": {
         "allow-plugins": {
