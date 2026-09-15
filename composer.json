@@ -8,7 +8,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "mahocommerce/maho": "*"
+        "mahocommerce/maho": "*",
+        "php": ">=8.5"
     },
     "config": {
         "allow-plugins": {
@@ -16,7 +17,7 @@
             "mahocommerce/maho-composer-plugin": true
         },
         "platform": {
-            "php": "8.3"
+            "php": "8.5"
         }
     }
 }
